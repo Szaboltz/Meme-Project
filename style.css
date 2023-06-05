@@ -3,23 +3,23 @@ body {
     text-align: center;
 }
 
-img {
-    width: 730px;
-    border: solid white;
-    border-width: 5px;
-    margin-top: 50px;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-}
 
-.text {
+.content {
     font-family: 'Caveat', cursive;
     font-family: 'Libre Baskerville', serif;
     font-family: 'Merriweather', serif;
     color: white;
+    
 }
 
-.text h1 {
+.content h1 {
     text-transform: capitalize;
+}
+
+.content img {
+    width: 730px;
+    border: solid white;
+    border-width: 5px;
+    margin-top: 50px;
+    
 }
